@@ -1,0 +1,7 @@
+Sitemap: https://tlsdane.com/index.html
+Sitemap: https://tlsdane.com/index
+Sitemap: https://tlsdane.com/info.html
+Sitemap: https://tlsdane.com/info
+
+User-agent: *
+Disallow: /
